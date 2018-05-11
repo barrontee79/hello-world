@@ -1,0 +1,113 @@
+{
+    "Apps": [
+        {
+            "app_launch_ordinal": "t",
+            "extension": {
+                        "incognito_enabled": true,
+                        "remote_install": false,
+                        "disable_reasons": 0,
+                        "installed_by_custodian": false,
+                        "update_url": "",
+                        "name": "Web Store",
+                        "id": "ahfgeienlihckogmohjhadlkjgocpleb",
+                        "version": "0.2",
+                        "enabled": true
+            },
+            "page_ordinal": "n"
+}
+    ],
+    "App Settings": [],
+    "Preferences": [
+        {
+            "name": "autofill.profile_use_dates_fixed",
+            "value": "true"
+},
+        {
+            "name": "profile.block_third_party_cookies",
+            "value": "true"
+},
+        {
+            "name": "intl.accept_languages",
+            "value": "\"en-US,en\""
+},
+        {
+            "name": "autofill.last_version_deduped",
+            "value": "55"
+},
+        {
+            "name": "search.contextual_search_enabled",
+            "value": "\"true\""
+},
+        {
+            "name": "translate_ignored_count_for_language",
+            "value": "{\"de\":0}"
+},
+        {
+            "name": "translate_denied_count_for_language",
+            "value": "{\"de\":0,\"es\":1}"
+},
+        {
+            "name": "translate_accepted_count",
+            "value": "{\"de\":1,\"es\":0}"
+},
+        {
+            "name": "translate_whitelists",
+            "value": "{\"de\":\"en\"}"
+},
+        {
+            "name": "profile.content_settings.exceptions.images",
+            "value": "{}"
+},
+        {
+            "name": "profile.name",
+            "value": "\"Barron\""
+},
+        {
+            "name": "profile.avatar_index",
+            "value": "0"
+},
+        {
+            "name": "profile.content_settings.exceptions.plugins",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.cookies",
+            "value": "{}"
+},
+        {
+            "name": "ntp.app_page_names",
+            "value": "[\"Apps\"]"
+},
+        {
+            "name": "profile.content_settings.exceptions.automatic_downloads",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.javascript",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.popups",
+            "value": "{}"
+},
+        {
+            "name": "profile.content_settings.exceptions.midi_sysex",
+            "value": "{}"
+},
+        {
+            "name": "profile.password_manager_enabled",
+            "value": "true"
+},
+        {
+            "name": "hotword.audio_logging_enabled",
+            "value": "true"
+}
+    ],
+    "Themes": [
+        {
+            "use_system_theme_by_default": false,
+            "use_custom_theme": false
+}
+    ],
+    "Managed Users": []
+}

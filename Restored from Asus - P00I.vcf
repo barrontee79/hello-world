@@ -1,0 +1,210 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Allen Roth
+N:Roth;Allen;;;
+item1.TEL:+1-903-569-7051
+item1.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Bill McGahee
+N:McGahee;Bill;;;
+item1.TEL:1-903-474-1368
+item1.X-ABLabel:Mobile
+item2.ADR:;;Emory\, Texas;;;;
+item2.X-ABLabel:Home
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Boston Mike
+N:Mike;Boston;;;
+item1.TEL:931-320-8806
+item1.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Mrs. Boston Mike
+N:Mike;Boston;;Mrs.;
+item1.TEL:+1-903-946-3935
+item1.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Brandon Hudson
+N:Hudson;Brandon;;;
+item1.TEL:+1-903-439-5014
+item1.X-ABLabel:Mobile
+item2.TEL:903-439-5014
+item2.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Brenda Henkes
+N:Henkes;Brenda;;;
+item1.TEL:+1-254-760-9584
+item1.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Brian Roberts A/c
+N:A/c;Brian;Roberts;;
+item1.TEL:903-763-2804
+item1.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Craig Shulz
+N:Shulz;Craig;;;
+item1.TEL:903-497-7881
+item1.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Don Young
+N:Young;Don;;;
+item1.TEL:1-903-348-4200
+item1.X-ABLabel:Mobile
+item2.ADR:;;Sulphur Springs\, Texas;;;;
+item2.X-ABLabel:Home
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Gary Tarter
+N:Tarter;Gary;;;
+item1.TEL:+1-512-590-1553
+item1.X-ABLabel:Mobile
+item2.ADR:;;Austin\, Texas;;;;
+item2.X-ABLabel:Home
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Gina Rathie
+N:Rathie;Gina;;;
+item1.TEL:1-406-560-8775
+item1.X-ABLabel:Mobile
+item2.ADR:;;Anaconda\, Montana;;;;
+item2.X-ABLabel:Home
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Joey
+N:;Joey;;;
+item1.EMAIL;TYPE=INTERNET:Knopfler8787@gmail.com 
+item1.X-ABLabel:Home
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:JOHNSON JOSHUA
+N:JOSHUA;JOHNSON;;;
+item1.TEL:903-747-7823
+item1.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Kellie
+N:;Kellie;;;
+item1.TEL:+1-903-767-6393
+item1.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Martin Bueno
+N:Bueno;Martin;;;
+item1.TEL:903-850-4517
+item1.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Mike Smith
+N:Smith;Mike;;;
+item1.TEL:1-903-790-1851
+item1.X-ABLabel:Mobile
+item2.ADR:;;Gilmer\, Texas;;;;
+item2.X-ABLabel:Home
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:My Baby
+N:Baby;My;;;
+EMAIL;TYPE=INTERNET:ashleylynnwesley@gmail.com
+item1.TEL:+1 903-505-9150
+item1.X-ABLabel:Mobile
+item2.TEL:(903) 505-9150
+item2.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Nathan Crist
+N:Crist;Nathan;;;
+item1.EMAIL;TYPE=INTERNET:fireman_nat_69@yahoo.com
+item1.X-ABLabel:Home
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Randy Davis
+N:Davis;Randy;;;
+item1.TEL:1-903-440-0420
+item1.X-ABLabel:Mobile
+item2.TEL:903-383-2639
+item2.X-ABLabel:Home
+item3.ADR:;;Sulphur Springs\, Texas;;;;
+item3.X-ABLabel:Home
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Rick Burgos
+N:Burgos;Rick;;;
+item1.TEL:903-343-1857
+item1.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Rusty Sherwood Drywall
+N:Drywall;Rusty;Sherwood;;
+item1.TEL:903-850-8402
+item1.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Sonya (Shawns Wife)
+N:Wife);Sonya;(Shawns;;
+item1.TEL:903-243-7738
+item1.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Steve Straznicky
+N:Straznicky;Steve;;;
+item1.EMAIL;TYPE=INTERNET:Steve.straznicky.twvp@statefarm.com
+item1.X-ABLabel:Work
+item2.TEL:+1-903-245-8767
+item2.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Tony Perkins
+N:Perkins;Tony;;;
+item1.TEL:903-530-3586
+item1.X-ABLabel:Mobile
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Voice Mail Mail
+N:Mail;Voice;Mail;;
+item1.TEL:*86
+item1.X-ABLabel:Home
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:VZ Roadside Assistance
+N:Assistance;VZ;Roadside;;
+item1.TEL:877-623-7433
+item1.X-ABLabel:Home
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:Warranty Center
+N:Center;Warranty;;;
+item1.TEL:866-406-5154
+item1.X-ABLabel:Home
+END:VCARD

@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:My Baby
+N:Baby;My;;;
+EMAIL;TYPE=INTERNET:ashleylynnwesley@gmail.com
+TEL;TYPE=CELL:+1 903-505-9150
+item1.URL:http\://www.google.com/profiles/106453855842715869848
+item1.X-ABLabel:PROFILE
+END:VCARD
+BEGIN:VCARD
+VERSION:3.0
+FN:My Baby
+N:Baby;My;;;
+EMAIL;TYPE=INTERNET:ashleylynnwesley@gmail.com
+TEL;TYPE=CELL:(903) 505-9150
+TEL;TYPE=CELL:+1 903-505-9150
+URL:http\://www.google.com/profiles/106453855842715869848
+END:VCARD
